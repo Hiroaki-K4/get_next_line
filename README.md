@@ -22,6 +22,9 @@ the first fd.
 from a binary file. However, if you wish, you can make this behavior coherent.
 - Global variables are forbidden.
 
+<br>
+
+# My score
 ![gnl](https://user-images.githubusercontent.com/51109408/115115964-26edcf80-9fd2-11eb-808c-e9f0f30fba7f.png)
 
 <br>
